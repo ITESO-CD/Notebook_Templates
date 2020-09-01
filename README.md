@@ -1,5 +1,3 @@
-# Notebook_Templates
-
 ## Description
 A list of jupyter notebook templates
 
